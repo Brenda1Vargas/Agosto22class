@@ -1,0 +1,14 @@
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\bin\Debug\net6.0\Agosto22class.exe
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\bin\Debug\net6.0\Agosto22class.deps.json
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\bin\Debug\net6.0\Agosto22class.runtimeconfig.json
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\bin\Debug\net6.0\Agosto22class.dll
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\bin\Debug\net6.0\Agosto22class.pdb
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.AssemblyInfoInputs.cache
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.AssemblyInfo.cs
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.csproj.CoreCompileInputs.cache
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.dll
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\refint\Agosto22class.dll
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.pdb
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\Agosto22class.genruntimeconfig.cache
+C:\Users\Altipal\Documents\GitHub\Agosto22class\Agosto22class\obj\Debug\net6.0\ref\Agosto22class.dll
