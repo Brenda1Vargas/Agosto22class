@@ -12,10 +12,11 @@
             {
                 case 1:
                     Console.WriteLine("PROMEDIO DE 3 NÚMEROS");
-                    exercice1.ExecuteExercise();
+                    exercice1.ExecuteExercise1();
                     break;
                     case 2:
-                    Console.WriteLine("CASO 2");
+                    Console.WriteLine("ÁREA Y PERÍMETRO DE UN RECTÁNGULO");
+                    exercise2.ExecuteExercise2();
                     break;
                 case 3:
                     Console.WriteLine("CASO 3");

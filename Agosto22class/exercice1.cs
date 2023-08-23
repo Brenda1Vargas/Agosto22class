@@ -8,7 +8,7 @@ namespace Agosto22class
 {
     internal class exercice1
     {
-        public static void ExecuteExercise()
+        public static void ExecuteExercise1()
         {
             int a = 0, b = 0, c= 0;
             Console.WriteLine("ingrese 3 numeros enteros");
